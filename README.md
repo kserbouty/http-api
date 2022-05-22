@@ -3,7 +3,6 @@
 Make simple CRUD operations with HTTP Protocols.
 
 > GUI available [here](https://gitlab.com/k.serbouty/http-gui).
----
 
 ## Features
 
