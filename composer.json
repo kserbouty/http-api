@@ -3,19 +3,19 @@
     "description": "Interface making basic HTTP requests.",
     "version": "0.6.0",
     "type": "project",
-    "keywords": ["symfony", "http", "api"],
-    "homepage": "https://gitlab.com/k.serbouty/http-api",
+    "keywords": ["symfony", "http", "json"],
+    "homepage": "https://github.com/kserbouty/http-api",
     "license": "MIT",
     "authors": [
         {
             "name": "Karim Serbouty",
             "email": "serbouty.dev@protonmail.com",
-            "homepage": "https://gitlab.com/k.serbouty/",
+            "homepage": "https://github.com/kserbouty/",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://gitlab.com/k.serbouty/http-api/-/issues",
+        "issues": "https://github.com/kserbouty/http-api/issues",
         "email": "serbouty.dev@protonmail.com"
     },
     "require": {

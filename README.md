@@ -2,7 +2,7 @@
 
 Make simple CRUD operations with HTTP Protocols.
 
-> GUI available [here](https://gitlab.com/k.serbouty/http-gui).
+> GUI available [here](https://github.com/kserbouty/http-gui).
 
 ## Features
 
@@ -72,7 +72,7 @@ Run
 php -S localhost:8000 -t public
 ```
 
-You can now run the [GUI](https://gitlab.com/k.serbouty/http-gui) too and interact with your products.
+You can now run the [GUI](https://github.com/kserbouty/http-gui) too and interact with your products.
 
 ## Authors
 
